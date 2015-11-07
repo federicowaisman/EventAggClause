@@ -1,0 +1,38 @@
+DESCRIPTION,ID
+California Wildfire,5
+Australia Bushfire,6
+US Multi-Peril Crop,7
+US Inland Flood,8
+US Earthquake Model,11
+Canada Earthquake,12
+Hawaii Earthquake,13
+Alaska Earthquake,14
+Caribbean Earthquake,15
+US/Canada Severe Thunderstrom,20
+Hawaii Tropical Cyclone,23
+North Atlantic Hurricane ,27
+US Winterstorm,28
+Canada Tropical Cyclone,30
+Europe Earthquake,31
+Southeast Europe Earthquake,33
+Europe Windstorm,41
+Canada Winterstrom,42
+Australia Earthquake,51
+Japan Earthquake,52
+New Zealand Earthquake,53
+Southeast Asia Earthquake,54
+China Earthquake,55
+Northwest Pacific Typhoon,60
+Australia Cyclone,61
+India Cyclone,69
+South America Earthquake,70
+Mexico Earthquake,72
+Central America Earthquake,76
+Pandemic ,81
+China Multi-Peril Crop,85
+US Crop Hail,86
+Central Europe Inland Flood,90
+Great Britain Storm Surge,91
+Great Britain Inland Flood,92
+Southeast Europe Inland Flood,94
+ARPS Loss Distribution,10
